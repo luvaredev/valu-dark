@@ -1,0 +1,32 @@
+{
+    "name": "valu-dark",
+    "displayName": "Valu Dark",
+    "description": "Dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Valu Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Valu Dark-color-theme.json"
+            }
+        ]
+    },
+    "icons": "icons/valu-dark.png",
+    "author": {
+        "name": "Lucas Varela",
+        "email": "lucas.dvarela@gmail.com",
+        "url": "https://www.linkedin.com/in/lucasvarela/"
+    },
+    "repository": {
+        "url": "https://github.com/luvarela/valu-dark.git",
+        "type": "git"
+    },
+    "publisher": "valu-dark"
+}
