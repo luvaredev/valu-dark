@@ -13,6 +13,10 @@
 		"editorLineNumber.activeForeground":"#dda2f6",
 		"editorWidget.background":"#1F212D",
 		"editorWidget.border":"#3c4156",
+		"editorIndentGuide.background":"#3c4156",
+		"editorIndentGuide.activeBackground":"#7fb3e1",
+		"editorCursor.foreground":"#7fb3e1",
+
 
 		// TITLE BAR
 		"titleBar.activeBackground": "#1F212D",
@@ -87,8 +91,9 @@
 
 		//	TERMINAL
 		"terminal.background":"#1F212D",
-		"terminal.foreground":"#7fb3e1",
-		"terminalCursor.foreground":"#dda2f6",
+		"terminal.foreground":"#FFF7EE",
+		"terminalCursor.foreground":"#7fb3e1",
+
 
 		// ICONS
 		"icon.foreground":"#5a6079"
